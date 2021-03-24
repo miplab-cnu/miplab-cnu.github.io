@@ -1,11 +1,11 @@
 ---
-title: Minh-Trieu Tran
+title: Duc-Ky Ngo
 search:
-  - Minh-Trieu Tran
-  - Minh-Trieu Tran
-role: phd
-group: current
-image: images/tran-minh-trieu.png #https://avatars2.githubusercontent.com/u/32473855?s=460&u=3e2770f872817bc790c2c03acd41bfec7dfc72cb&v=4
+  - Duc-Ky Ngo
+  - Duc-Ky Ngo
+role: msc
+group: alum
+image: images/default_avt.png #https://avatars2.githubusercontent.com/u/32473855?s=460&u=3e2770f872817bc790c2c03acd41bfec7dfc72cb&v=4
 # email: dhe17@umd.edu
 # github: DongzeHE
 ---

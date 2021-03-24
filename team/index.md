@@ -23,6 +23,7 @@ the work we're doing, please reach out!
 {% include team-list.html role="undergrad" group="current" %}
 {% include team-list.html role="programmer" group="current" %}
 {% include team-list.html role="mascot" group="current" %}
+{% include team-list.html role="msc" group="current" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -38,6 +39,7 @@ is a list of lab alumni (if you feel you're missing from the list and would like
 {% include team-list.html role="pi" group="alum" mini="true" %}
 {% include team-list.html role="phd_g" group="alum" mini="true" %}
 {% include team-list.html role="undergrad" group="alum" mini="true" %}
+{% include team-list.html role="msc" group="alum" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
