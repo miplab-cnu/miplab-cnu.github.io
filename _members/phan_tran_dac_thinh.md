@@ -1,9 +1,9 @@
 ---
-title: Quang-Vinh Tran
+title: Phan Tran Dac Thinh
 search:
-  - Quang-Vinh Tran
-  - Quang-Vinh Tran
-role: phd
+  - Phan Tran Dac Thinh
+  - Phan Tran Dac Thinh
+role: msc
 group: current
 image: images/default_avt.png #https://avatars2.githubusercontent.com/u/32473855?s=460&u=3e2770f872817bc790c2c03acd41bfec7dfc72cb&v=4
 # email: dhe17@umd.edu

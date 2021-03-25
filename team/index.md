@@ -17,6 +17,7 @@ it relates to genomics (and Biology more broadly).  We are a varied and friendly
 the work we're doing, please reach out!
 
 {% capture html %}
+{% include team-list.html role="prof" group="current" %}
 {% include team-list.html role="pi" group="current" %}
 {% include team-list.html role="postdoc" group="current" %}
 {% include team-list.html role="phd" group="current" %}
@@ -36,6 +37,7 @@ We are incredibly proud of all of the COMBINE-lab alumni who have passed through
 is a list of lab alumni (if you feel you're missing from the list and would like to be added, please e-mail us):
 
 {% capture html %}
+{% include team-list.html role="prof" group="alum" %}
 {% include team-list.html role="pi" group="alum" mini="true" %}
 {% include team-list.html role="phd_g" group="alum" mini="true" %}
 {% include team-list.html role="undergrad" group="alum" mini="true" %}

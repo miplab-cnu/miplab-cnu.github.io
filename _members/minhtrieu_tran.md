@@ -9,6 +9,7 @@ image: images/tran-minh-trieu.png #https://avatars2.githubusercontent.com/u/3247
 # email: dhe17@umd.edu
 # github: DongzeHE
 ---
- 
-He is currently a PhD student in the Multimedia and Image Processing Lab at Chonnam National University studying Medical Image Processing. His research interests include Deep Learning in Medical and Statistics.
-
+He received a B.S. degree in Electronics and Telecommunications from Vietnam Aviation Academy,
+Vietnam in 2016. He received a M.S. degree in Electronics from Hochiminh University of Technology and
+Education in 2018. He is currently a Ph.D student in the dept. of Electronics and Computer Engineering, Chonnam National
+University, Korea. His interests include deep learning based image processing, computer vision and pattern recognition. 
