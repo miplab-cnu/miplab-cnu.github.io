@@ -23,6 +23,15 @@
     {%- endcomment -%}
 
     <a
+    href="{{ '/' | relative_url }}"
+    class="nav_link"
+    data-tooltip="Home"
+    data-placement="bottom"
+    data-delay="400"
+    >Home</a
+  >
+
+    <a
       href="{{ 'research' | relative_url }}"
       class="nav_link"
       data-tooltip="Published works"

@@ -4,9 +4,9 @@ title: Home
 
 # <i class="fas fa-flask"></i>Home
 
+This is the main web page of MIP Laboratory (Multimedia and Image Processing) at Chonnam National University, Gwangju, Republic of Korea.
 
-\<Introduction\>
+The field of study and research as the following:
 
-### Research Interests
-
-\<Introduction\>
+- Human Emotion Recognition
+- Medical Image Processing
